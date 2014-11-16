@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="backgroundChanger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/backgroundChanger_jar</output-path>
+    <root id="archive" name="backgroundChanger.jar">
+      <element id="module-output" name="backgroundChanger" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jna-3.2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
